@@ -196,11 +196,6 @@ git clone https://github.com/Sakshibansal027/Smart-Expense-Splitter.git
 
 ---
 
-## 📜 License
-
-This project is open-source under the **MIT License**.
-
----
 
 ## 💡 Author
 
